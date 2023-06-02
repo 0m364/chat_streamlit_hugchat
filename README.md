@@ -1,6 +1,6 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Streamlit Chat with HigChat
 ```
-⬆️ (Replace above with your app's name)
+⬆️ chat me if you can
 ```
 
 Description of the app ...
