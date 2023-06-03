@@ -1,0 +1,3 @@
+GPT3 error: [Errno 2] No such file or directory: 'gpt3_logs/gpt3_1685753331.902246.log'
+
+GPT3 error: [Errno 2] No such file or directory: 'gpt3_logs/gpt3_1685753392.931184.log'

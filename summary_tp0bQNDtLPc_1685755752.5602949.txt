@@ -1,0 +1,3 @@
+In this video, a tutorial is provided on how to install and use a Pinecone Vector Database to store and query multiple pieces of text. A free account is required and the openAI API is used to generate embeddings. The tutorial includes code for generating embeddings, splitting them into chunks, and inserting them into the database.
+
+This tutorial explains how to use Pinecone's embedding vector database to search for data. It covers how to link a Pinecone account, how to insert data, and how to query the database for matches. It also includes tips on how to use the data in a Discord bot or other project.
